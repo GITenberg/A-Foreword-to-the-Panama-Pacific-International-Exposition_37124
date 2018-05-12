@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '1816'
     url: http://www.gutenberg.org/2009/agents/1816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37124#A-Foreword-to-the-Panama-Pacific-International-Exposition
 gutenberg_issued: '2011-08-20'
 gutenberg_type: Text
 identifiers:
