@@ -1,0 +1,25 @@
+_repo: A-Foreword-to-the-Panama-Pacific-International-Exposition_37124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James, Juliet Helena Lumbard
+    birthdate: 1864
+    gutenberg_agent_id: '1816'
+    url: http://www.gutenberg.org/2009/agents/1816
+description: ''
+gutenberg_issued: '2011-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- !lcc 'TC'
+title: A Foreword to the Panama-Pacific International Exposition
+url: http://www.gutenberg.org/ebooks/37124
